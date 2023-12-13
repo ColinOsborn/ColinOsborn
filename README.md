@@ -6,7 +6,7 @@
 ### <div align="center">I'm Colin Osborn, a full-stack developer 👨‍💻 working remotely from the mountains</div>  
   
 
-- 🌱 I’m currently learning TypeScript and Rust  
+- 🌱 I’m currently learning Go and Rust  
   
 
 - ❓ Ask me about anything related to Ruby on Rails  
@@ -50,6 +50,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
