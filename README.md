@@ -6,9 +6,6 @@
 ### <div align="center">I'm Colin Osborn, a full-stack developer 👨‍💻 working remotely from the mountains</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
 - 🌱 I’m currently learning TypeScript and Rust  
   
 
