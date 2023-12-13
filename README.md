@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to Ruby on Rails  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'm a former MTB Pro  
   
 
 <br/>  
