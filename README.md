@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/13109607?v=4" align="center" height="200" width="200" />
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vWoXV7w4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2msk05nodke4bqadtdsn.JPG" align="center" height="300" width="" />
 </div>  
   
 
@@ -103,9 +103,7 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
@@ -113,9 +111,6 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ColinOsborn&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
