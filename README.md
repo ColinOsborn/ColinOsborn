@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--vWoXV7w4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2msk05nodke4bqadtdsn.JPG" align="center" height="300" width="" />
+<img src="https://co-img-bucket.s3.us-west-2.amazonaws.com/hosted-images/IMG_1017+copy.JPG" align="center" height="300" width="" />
 </div>  
   
 
