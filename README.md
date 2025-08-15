@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://co-img-bucket.s3.us-west-2.amazonaws.com/hosted-images/IMG_1017+copy.JPG" align="center" height="300" width="" />
+<img src="https://co-pub-images.s3.us-west-2.amazonaws.com/IMG_1017+copy.JPG" align="center" height="300" width="" />
 </div>  
   
 
